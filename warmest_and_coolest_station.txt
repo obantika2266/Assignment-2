@@ -1,0 +1,7 @@
+Warmest Station(s):
+STATION_NAME  AvgAnnualTemp
+  MARBLE-BAR      41.479167
+
+Coolest Station(s):
+        STATION_NAME  AvgAnnualTemp
+CABRAMURRA-SMHEA-AWS      12.380833
