@@ -43,7 +43,7 @@ def check_correctness(original, decrypted):
     return original == decrypted
 
 def main():
-    # Take user inputs
+    # Taking user input for n and m
     try:
         n = int(input("Enter value for n: "))
         m = int(input("Enter value for m: "))
