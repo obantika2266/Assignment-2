@@ -28,7 +28,7 @@ def draw_branch(t, branch_length, left_angle, right_angle, reduction_factor, dep
     t.backward(branch_length)
 
 def main():
-    # Parameters (matching your example)
+    # Parameters defined in the question
     left_angle = 20
     right_angle = 25
     starting_length = 100
